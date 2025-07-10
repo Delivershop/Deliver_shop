@@ -1,4 +1,4 @@
-services:
+echo "services:
 - type: web
   name: deliver-market
   env: php
